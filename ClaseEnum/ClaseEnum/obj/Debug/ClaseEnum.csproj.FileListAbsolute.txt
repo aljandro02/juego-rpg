@@ -1,0 +1,7 @@
+D:\alej_\proyectos en vb\c#\ClaseEnum\ClaseEnum\bin\Debug\ClaseEnum.exe.config
+D:\alej_\proyectos en vb\c#\ClaseEnum\ClaseEnum\bin\Debug\ClaseEnum.exe
+D:\alej_\proyectos en vb\c#\ClaseEnum\ClaseEnum\bin\Debug\ClaseEnum.pdb
+D:\alej_\proyectos en vb\c#\ClaseEnum\ClaseEnum\obj\Debug\ClaseEnum.csproj.AssemblyReference.cache
+D:\alej_\proyectos en vb\c#\ClaseEnum\ClaseEnum\obj\Debug\ClaseEnum.csproj.CoreCompileInputs.cache
+D:\alej_\proyectos en vb\c#\ClaseEnum\ClaseEnum\obj\Debug\ClaseEnum.exe
+D:\alej_\proyectos en vb\c#\ClaseEnum\ClaseEnum\obj\Debug\ClaseEnum.pdb
